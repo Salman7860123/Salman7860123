@@ -3,11 +3,6 @@
 </h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadbava&label=Profile%20views&color=0e75b6&style=flat" alt="ahadbava" /> </p>
-
 - 💬 Ask me about **Dart , JavaScript , Node Js**
 
 
